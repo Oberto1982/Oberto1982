@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oberto1982
+- 👋 Hi, I’m Diego
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning; HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
